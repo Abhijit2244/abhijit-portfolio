@@ -21,7 +21,7 @@ const ProjectInfo = [
         image: "Portfolio.png",
         live: true,
         technologies: ["React", "Mantine-UI","Firebase","Tailwind", "Redux", "Heroicons"],
-        link: "https://social-media-app-61r2.onrender.com/",
+        link: "https://abhijit2244.github.io/abhijit-portfolio/",
         github: "https://github.com/Abhijit2244/abhijit-portfolio/"
     },
 ]
